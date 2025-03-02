@@ -1,6 +1,6 @@
 # Anonykit :shield:
 <p align="center">
-  <img src="https://github.com/shadowhunter-kdbx/Anonykit/blob/main/logo.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/shadowhunter-kdbx/Anonykit/main/logo.jpg" width="200">
 </p>
 
 <h1 align="center">Anonykit</h1>
