@@ -49,7 +49,7 @@ Known Issues :warning:
 
     No major issues reported in the initial release.
 
-Interesting Quote:lock:
+Interesting Quote :lock:
 
     "The greatest security you can have is not in the systems you use but in the practices you follow."
 
