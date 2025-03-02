@@ -32,7 +32,7 @@ Anonykit is a powerful, all-in-one security and privacy toolkit for Linux system
 
     Run the installation script:
 
-    sudo ./install.sh
+    sudo ./Anonykit.sh
 
     Follow the CLI prompts to install your desired security, privacy, and monitoring tools.
 
