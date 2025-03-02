@@ -1,5 +1,10 @@
 # Anonykit :shield:
+<p align="center">
+  <img src="https://github.com/shadowhunter-kdbx/Anonykit/blob/main/logo.jpg" width="200">
+</p>
 
+<h1 align="center">Anonykit</h1>
+<p align="center">A powerful Linux security and privacy toolkit.</p>
 ![License](https://img.shields.io/github/license/shadowhunter-kdbx/anonykit)
 ![Version](https://img.shields.io/github/v/release/shadowhunter-kdbx/anonykit)
 ![Issues](https://img.shields.io/github/issues/shadowhunter-kdbx/anonykit)
